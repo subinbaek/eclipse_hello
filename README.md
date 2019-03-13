@@ -1,2 +1,2 @@
-# stuby
-test repo for github stuby
+# study
+test repo for github study
